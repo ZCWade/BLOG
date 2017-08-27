@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://github.com/ZCWade/BLOG/archives/index.html</loc>
+    
+    <lastmod>2017-08-27T06:20:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/ZCWade/BLOG/categories/index.html</loc>
+    
+    <lastmod>2017-08-27T05:13:30.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/ZCWade/BLOG/tags/index.html</loc>
+    
+    <lastmod>2017-08-27T05:12:51.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://github.com/ZCWade/BLOG/2017/08/24/hello-world/</loc>
     
     <lastmod>2017-08-24T15:03:54.000Z</lastmod>
